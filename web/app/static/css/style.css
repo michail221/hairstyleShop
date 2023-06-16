@@ -1,0 +1,16 @@
+.block {
+          width: 280px;
+          height: 350px;
+          background-size: cover;
+          background-position: center;
+          border: 2px solid .000;}
+.border-top1 {
+    border-top: 140px solid #ffffff!important;
+    margin-top: 3rem!important;
+    margin-bottom: 3rem!important;
+    padding-top: 3rem!important;
+}
+
+.border-top2 {
+    border-top: 1px solid #dee2e6!important;
+}
